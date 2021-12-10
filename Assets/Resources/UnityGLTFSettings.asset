@@ -16,7 +16,7 @@ MonoBehaviour:
   exportFullPath: 1
   requireExtensions: 0
   useMainCameraVisibility: 1
-  exportDisabledGameObjects: 0
+  exportDisabledGameObjects: 1
   tryExportTexturesFromDisk: 0
   useTextureFileTypeHeuristic: 1
   defaultJpegQuality: 90
