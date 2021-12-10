@@ -102,3 +102,8 @@ MonoBehaviour:
     m_Settings: {fileID: 11400000}
     m_NextInstanceId: 0
     m_RegisteredServiceTypeRefs: []
+    m_GlobalProfileVariablesInfos:
+    - key: PrivateIpAddress
+      value: 172.18.224.1
+    - key: PrivateIpAddress_1
+      value: 192.168.178.125
